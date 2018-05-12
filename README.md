@@ -16,7 +16,7 @@ Doing 12 projects in 12 months
 6. [토마토 타이머](https://github.com/hyunsikshin/tomato-timer)
 > React.js
 7. [무비앱](https://github.com/HyeonSik/movie_app) ([Web Link](https://hyunsikshin.github.io/movie_app/))
-8. [ProjectPurple](https://github.com/AlteraLab/ProjectPurple) with AlteraLab in DCU
+8. [ProjectPurple](https://github.com/AlteraLab/ProjectPurple) with [AlteraLab](https://github.com/AlteraLab) in DCU
 > etc - React Study
 1) [Parcel](https://github.com/hyunsikshin/parcel-sample)
 2) [React16 Features](https://github.com/hyunsikshin/master-react16)
