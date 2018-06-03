@@ -20,6 +20,8 @@ Doing 12 projects in 12 months
 > BlockChain
 9. [TypeChain](https://github.com/hyunsikshin/TypeChain) Made in Typescript
 10. [HeynoCoin](https://github.com/hyunsikshin/heynocoin) Made in Node.js
+> Android
+11. [BeTheRich](https://github.com/hyunsikshin/BeTheRich) Java Programming Class Spring Semester Term Project
 > etc - React Study
 1) [Parcel](https://github.com/hyunsikshin/parcel-sample)
 2) [React16 Features](https://github.com/hyunsikshin/master-react16)
