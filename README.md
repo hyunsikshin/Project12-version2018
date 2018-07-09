@@ -16,13 +16,13 @@ Doing 12 projects in 12 months
 6. [토마토 타이머](https://github.com/hyunsikshin/tomato-timer)
 > React.js
 7. [무비앱](https://github.com/HyeonSik/movie_app) ([Web Link](https://hyunsikshin.github.io/movie_app/))
-> React Native + Django
-8. [Nomadgram(인스타그램 클로닝)](https://github.com/hyunsikshin/nomadgram)
 > BlockChain
-9. [TypeChain](https://github.com/hyunsikshin/TypeChain) Made in Typescript
-10. [HeynoCoin](https://github.com/hyunsikshin/heynocoin) Made in Node.js
-> Android
-11. [BeTheRich](https://github.com/hyunsikshin/BeTheRich) Java Programming Class Spring Semester Term Project
+8. [TypeChain](https://github.com/hyunsikshin/TypeChain) Made in Typescript
+9. [HeynoCoin](https://github.com/hyunsikshin/heynocoin) Made in Node.js
+> React Native + Django
+10. [Nomadgram(인스타그램 클로닝)](https://github.com/hyunsikshin/nomadgram)
 > etc - React Study
 1) [Parcel](https://github.com/hyunsikshin/parcel-sample)
 2) [React16 Features](https://github.com/hyunsikshin/master-react16)
+3) [Styled Components](https://github.com/hyunsikshin/styled-awesomeness)
+4) [AntiRedux](https://github.com/hyunsikshin/antiredux)
