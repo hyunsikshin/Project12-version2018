@@ -25,9 +25,7 @@ Doing 12 projects in 12 months
 11. [NullBox](https://github.com/Nexters/nullbox)([Web Link](http://www.play-it.site/))
 > Web
 12. [New-Finder](https://github.com/hyunsikshin/new-finder)([Web Link](http://hyunxic.me/new-finder/))
-> Android
-13. [iST PAY](https://play.google.com/store/apps/details?id=com.cryptomodernart.iampay)
-14. [ELA PAY](https://play.google.com/store/apps/details?id=com.elama.elapay)
+
 
 > etc - React Study
 1) [Parcel](https://github.com/hyunsikshin/parcel-sample)
